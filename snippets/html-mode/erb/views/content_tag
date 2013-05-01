@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: content_tag
+# key: content_tag
+# --
+<% content_tag("${1:element}"${2:, ${3:attr}}) do %>
+  $0
+<% end %>

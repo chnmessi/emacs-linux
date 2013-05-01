@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: flash[: ... ] short
+# key: fl
+# --
+flash[:${notice}]

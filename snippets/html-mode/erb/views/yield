@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: <%= yield :layout %>
+# key: yield
+# --
+<%= yield :layout %>

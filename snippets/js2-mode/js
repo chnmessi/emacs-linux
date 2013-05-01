@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: test js
+# key: js
+# --
+if (!document.getElementById) || !document.createTextNode) { return; }

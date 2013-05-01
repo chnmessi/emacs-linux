@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: <%= stylesheet_link_tag ... %>
+# key: stylesheet_link_tag
+# --
+<%= stylesheet_link_tag "$0" %>

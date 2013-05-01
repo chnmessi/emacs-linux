@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: document.write("...")
+# key: p
+# --
+document.write($0)

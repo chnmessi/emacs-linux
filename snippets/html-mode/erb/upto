@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: <% upto -%>
+# key: upto
+# --
+<% ${set}.upto do |${element}| -%>
+  $0
+<% end -%>

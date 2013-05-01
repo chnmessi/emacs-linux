@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: test next Sibling
+# key: test
+# --
+var a = ${1:element}.firstChild
+while (a.nodeName == "#text") {a = a.nextSibling; }

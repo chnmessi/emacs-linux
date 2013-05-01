@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: <% ... do %> ... <% end %>
+# key: do
+# --
+<% ${1:method} do %>
+  $0
+<% end %>

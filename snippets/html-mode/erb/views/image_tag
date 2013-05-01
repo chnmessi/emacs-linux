@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: <%= image_tag ... %>
+# key: image_tag
+# --
+<%= image_tag "$0" %>

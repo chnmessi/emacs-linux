@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# key: do
+# --
+do
+  $0
+end

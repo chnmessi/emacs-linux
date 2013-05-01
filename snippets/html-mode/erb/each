@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: <% each -%>
+# key: each
+# --
+<% ${set}.each do |${e}| -%>
+  $0
+<% end -%>

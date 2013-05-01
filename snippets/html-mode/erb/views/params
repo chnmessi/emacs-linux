@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: params[:id]
+# key: pa
+# --
+params[:${id}]

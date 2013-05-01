@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: <%= form_for ... do |f| %>
+# key: ft
+# --
+<% form_tag do %>
+  <fieldset>
+  <legend>${title here}</legend>
+  
+  $0
+  
+  </fieldset>
+  
+<% end %>

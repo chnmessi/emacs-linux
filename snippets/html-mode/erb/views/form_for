@@ -1,0 +1,15 @@
+# -*- mode: snippet -*-
+# name: <%= form_for ... do |f| %>
+# key: ff
+# --
+<% form_for(${table}) do |f| %>
+  <%= f.error_messages %>
+
+  <fieldset>
+  <legend>${title here}</legend>
+  
+  $0
+  
+  </fieldset>
+  
+<% end %>

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: :action => :? short
+# key: ac
+# --
+:action => :$0

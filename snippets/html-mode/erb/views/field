@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: <%= f.?? %>
+# key: f
+# --
+<div>
+  <%= f.label :${1:property}${2:, "${3:Content}"} %>
+  <%= f.${4:text_field} :$1${5:, size => ${6:size}} %>
+</div>

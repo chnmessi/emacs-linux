@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: <%= link_to ... %>
+# key: link_to
+# --
+<%= link_to "${1:link}"${2:, :controller => '${3:controller}'${4:, :action => '${5:action}'}} %>

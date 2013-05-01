@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: hash rocket
+# key: h
+# --
+:${1:k} => "${2:v}"

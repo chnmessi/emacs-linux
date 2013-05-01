@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: <%= f.submit %>
+# key: submit
+# --
+<div>
+  <%= f.submit "${Title}", :class => "submit" %>
+</div>
